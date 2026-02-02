@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santhosh Venkatachalam</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh-v-173&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh-v-173" /> </p>
+
 - 🔭 I’m currently working on **Cloud Automation & Observability Projects on AWS**
 
 - 🌱 I’m currently learning **Kubernetes & container orchestration**
@@ -18,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santhosh173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh173" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/641603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="641603" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
